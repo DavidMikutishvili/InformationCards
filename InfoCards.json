@@ -1,0 +1,77 @@
+[
+  {
+    "Id": 1,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 2,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 3,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 4,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 5,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 6,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 7,
+    "CardName": "iphoneX",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 8,
+    "CardName": "iphoneX",
+    "ImagePath": "jjj"
+  },
+  {
+    "Id": 9,
+    "CardName": "iphoneX",
+    "ImagePath": "jjj"
+  },
+  {
+    "Id": 10,
+    "CardName": "/Images/iphoneX.jpg",
+    "ImagePath": "jjj"
+  },
+  {
+    "Id": 11,
+    "CardName": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg",
+    "ImagePath": "jjj"
+  },
+  {
+    "Id": 12,
+    "CardName": "jjj",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 13,
+    "CardName": null,
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 14,
+    "CardName": "\u043F\u043F\u043F",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  },
+  {
+    "Id": 15,
+    "CardName": "kkk",
+    "ImagePath": "D:\\C#\\InformationCards\\InformationCards\\wwwroot\\Images\\iphoneX.jpg"
+  }
+]
